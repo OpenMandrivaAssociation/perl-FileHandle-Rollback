@@ -3,7 +3,7 @@
 Summary:	FileHandle-Rollback module for perl 
 Name:		perl-%{real_name}
 Version:	1.06
-Release:	5
+Release:	6
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		http://search.cpan.org/dist/%{real_name}
