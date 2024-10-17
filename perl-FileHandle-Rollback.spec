@@ -6,7 +6,7 @@ Version:	1.06
 Release:	6
 License:	GPL or Artistic
 Group:		Development/Perl
-URL:		http://search.cpan.org/dist/%{real_name}
+URL:		https://search.cpan.org/dist/%{real_name}
 Source0:	%{real_name}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildArch:	noarch
